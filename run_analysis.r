@@ -2,6 +2,8 @@ library(plyr)
 library(dplyr)
 library(reshape2)
 
+# Unzip data file
+unzip("getdata-projectfiles-UCI HAR Dataset.zip")
 
 #  Set the list of columns we care about in the data
 nmMatch<-c("-std()","-mean()")

@@ -4,7 +4,7 @@
 * run_analysis.r : r script for creating tidy data
 
 ## Instructions for using script
-Make sure that you have the UCI HAR Dataset folder with it's data in your working directory
+Make sure that you have the UCI HAR Dataset.zip in your working directory
 
 Source the run_analysis.r script to execute the analysis and create summaryDataOutput.txt
 
